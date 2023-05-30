@@ -11,3 +11,5 @@ To run this app on your local machine:
 1) Clone the repository
 2) Download requirements.txt using: pip install -r requirements.txt
 3) Run using streamlit run app.py
+
+Deployed link of the project- https://avnigoyal25-briefy-app-15fgym.streamlit.app/
